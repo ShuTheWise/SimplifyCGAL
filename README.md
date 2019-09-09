@@ -1,5 +1,5 @@
 CLI usage:
-SimplifyCGAL.exe "<input model path>.off" "output model path>.off" <ratio = (0.0 - 1.0)>
+SimplifyCGAL.exe <"input model path"> <"output model path"> <"ratio" - a decimal number from 0.0 to 1.0>
 
 Example: SimplifyCGAL.exe inputModel.off outputModel.off 0.5  
 
