@@ -3,7 +3,7 @@ SimplifyCGAL.exe <"input model path"> <"output model path"> <"ratio" - a decimal
 
 Example: SimplifyCGAL.exe inputModel.off outputModel.off 0.5  
 
-Supported file format is Object File Format (\*.off). While it is not a very common mesh format you can certainly convert any mesh to a Object File Format. Among other you can use MeshLab http://www.meshlab.net/.
+Supported file format is Object File Format (\*.off). While it is not a very common mesh format you can certainly convert any mesh to a Object File Format. Among others you can use MeshLab http://www.meshlab.net/.
 
 More information about the simplification method can be found here https://doc.cgal.org/latest/Surface_mesh_simplification/index.html
 
